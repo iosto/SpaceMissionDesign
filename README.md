@@ -19,7 +19,7 @@ Please use the individual functions as you like, and see the scripts for example
 <!-- CONTACT -->
 ## Contact
 
-Your Name - iostofodde@gmail.com
+Iosto Fodde - iostofodde@gmail.com
 
 Project Link: [https://github.com/iosto/SpaceMissionDesign](https://github.com/iosto/SpaceMissionDesign)
 
